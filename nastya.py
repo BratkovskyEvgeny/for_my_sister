@@ -221,6 +221,7 @@ def main(
     
     #st.sidebar.title("Екатерине и Кире")
     st.sidebar.image('nt.jpg', width=300)
+    st.sidebar.image('30.jpg', width=300)
     
     #st.markdown("<h5 style='text-align: center; '>Поздравление</h5>", unsafe_allow_html = True)
     
